@@ -32,11 +32,11 @@ Ways to connect Neo4j with Jupiter can be either found on here or in the followi
 
 # to do
 
-Get data into database 
+-Get data into database 
 -translate top 3 song (Last 10 years)
 -expand eurovision vote search 
 -language similarity (Jack)
 -popularity of english/ French  (Viktoria)
 -approval ratings towards countries (Joshia)
 -try to put this data into neo4j (eurovision)
--
+
