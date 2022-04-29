@@ -30,7 +30,7 @@ The Jupiter Notebook on the Eurovision data can be found on: https://neo4j.com/g
 Ways to connect Neo4j with Jupiter can be either found on here or in the following:  https://medium.com/@technologydata25/connect-neo4j-to-jupyter-notebook-c178f716d6d5 , https://community.neo4j.com/t/integrating-jupyter-notebook-with-neo4j-desktop-database/9778/12
 
 
-# to do
+# Meeting 29.04:
 
 -Get data into database 
 -translate top 3 song (Last 10 years)
