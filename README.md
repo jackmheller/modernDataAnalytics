@@ -43,3 +43,5 @@ Ways to connect Neo4j with Jupiter can be either found on here or in the followi
 
 
 # DONT FORGET THAT WE HAVE TO USE A PIPELINE! 
+
+# it would be very good to also deploy everything in an app
