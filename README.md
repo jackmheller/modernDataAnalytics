@@ -41,3 +41,5 @@ Ways to connect Neo4j with Jupiter can be either found on here or in the followi
 -approval ratings towards countries (Joshia)
 -try to put this data into neo4j (eurovision)
 
+
+# DONT FORGET THAT WE HAVE TO USE A PIPELINE! 
