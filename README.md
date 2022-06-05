@@ -8,4 +8,5 @@ While each country is free to vote for any other, it is common to observe that c
 
 # Code
 
-This data contains a combination of python and cyper scripts.  These will require running on a Neo4j database (it is set up to run locally).  This means that outside of this code, you will need to create a new local database in Neo4j desktop and set it as instructed in 
+This data contains a combination of python and cyper scripts.  These will require running on a Neo4j database (it is set up to run locally). This means that outside of this code, you will need to create a new local database in Neo4j desktop and set it as instructed in Neo4j_Python.ipynb. For simplicity of running and to limit copy and pasting, all cyper scripts are set up to run in a jupyter notebook. However, these could be copied into Neo4j to visualize some of these outputs.
+
